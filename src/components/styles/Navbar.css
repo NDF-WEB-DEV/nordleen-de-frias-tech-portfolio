@@ -1,0 +1,17 @@
+.nav {
+    background: #00ccff;
+    height: 70px;
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .nav a {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0px;
+    line-height: 3;
+  }
+  

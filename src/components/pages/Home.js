@@ -1,21 +1,28 @@
 import React from 'react';
+import './styles/Home.css';
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home Page</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+    <div className="row">
+      <div  className="background-image"></div>
+      <div className="col-8">
+        <h1><text>Nordleen De Frias</text></h1>
+        <hr></hr>
+        <h2><strong>/ Full-Stack Developer /</strong></h2>
+        <hr></hr>
+        <h3>. . . / frontEnd / backEnd / graphicDesign / productPhotography /</h3>
+      </div>
+      <div className="col-4">
+        <p><strong>const knowledge = </strong>[ html, css, JavaScript, Git, GitHub, JQuery, Node.js, Handlebars, Moment.js, JSON, Ajax, Express.js, Repositories,
+          CRUD, NPM Packages, Heroku, GoDaddy, CLI, Bash, Terminal, Insomnia, MongoDB, MySQL, API Calls, MERN Stack, Webpack, Babel, 
+          PWA, React, Google Fonts, Adobe Fonts, CDN, ADA, Chrome Dev Tools, Status Codes, Unit Testing, 
+          Bootstrap, DOM Manipulation, Event Handling, FlexBox, Forms, Wireframing, Third Party APIs, 
+          literals, Server-side APIs, Fetch Calls, API Routes, Modularization, Inquirer, Promises,
+          OOP, MVC, Algorithms, Express.js, seeds, RESTful Routes, Async and Await, Password Hashing, Hooks, 
+          Sequelize, Cookies, Middleware, Auth, Linear Search, Binary Search, Queues, Recursion, NoSQL, Mongoose,
+          Schemas,  Props, Components, Apollo Server, TypeDefs, Resolvers, Mutations, Cache, JWTs, RegEx, Zendesk ]; </p>
+      </div>
+
     </div>
   );
 }

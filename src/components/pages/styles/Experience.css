@@ -1,0 +1,16 @@
+.experience .row {
+    /* background: red; */
+    margin-top: 50px;
+}
+.experience p {
+    text-align: left;
+    /* background: #f3e5f5; */
+    line-height: 30px;
+    margin: 0px;
+    font-size: 14px;;
+}
+.experience h1 {
+    font-size: 100px;
+    text-align: right;
+    margin-top: 370px;;
+}

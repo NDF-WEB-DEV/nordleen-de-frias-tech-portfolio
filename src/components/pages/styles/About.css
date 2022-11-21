@@ -1,0 +1,30 @@
+.about {
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.about img {
+    margin-top: 50px;
+    width: 576px;
+    border-radius: 120px;
+    align-items: center;
+    justify-content: center;
+}
+.about h1 {
+    font-size: 45px;
+    text-align: left;
+    line-height: 55px;
+}
+
+.about p {
+    font-size: 20px;
+    text-align: justify;
+    color: darkgrey;
+    margin: 0px;
+    line-height: 35px;
+}
+.about div {
+    margin: 0px;
+}

@@ -1,0 +1,11 @@
+.projects .row {
+    /* background: red; */
+    margin-top: 50px;
+}
+
+.projects img {
+    width: 100%;
+}
+.projects a {
+    font-size: 25px;
+}
