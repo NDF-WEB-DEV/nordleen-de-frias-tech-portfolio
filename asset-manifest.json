@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/nordleen-de-frias-tech-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/nordleen-de-frias-tech-portfolio/static/js/main.624eac70.js",
-    "static/js/787.9eb943ec.chunk.js": "/nordleen-de-frias-tech-portfolio/static/js/787.9eb943ec.chunk.js",
-    "static/media/logo.svg": "/nordleen-de-frias-tech-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/nordleen-de-frias-tech-portfolio/static/css/main.2e1ce6a6.css",
+    "main.js": "/nordleen-de-frias-tech-portfolio/static/js/main.41019c5f.js",
     "index.html": "/nordleen-de-frias-tech-portfolio/index.html",
-    "main.073c9b0a.css.map": "/nordleen-de-frias-tech-portfolio/static/css/main.073c9b0a.css.map",
-    "main.624eac70.js.map": "/nordleen-de-frias-tech-portfolio/static/js/main.624eac70.js.map",
-    "787.9eb943ec.chunk.js.map": "/nordleen-de-frias-tech-portfolio/static/js/787.9eb943ec.chunk.js.map"
+    "main.2e1ce6a6.css.map": "/nordleen-de-frias-tech-portfolio/static/css/main.2e1ce6a6.css.map",
+    "main.41019c5f.js.map": "/nordleen-de-frias-tech-portfolio/static/js/main.41019c5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.624eac70.js"
+    "static/css/main.2e1ce6a6.css",
+    "static/js/main.41019c5f.js"
   ]
 }
