@@ -3,6 +3,7 @@ import './styles/Navbar.css';
 
 function Navbar({ currentPage, handlePageChange }) {
   return (
+    <div  className="background-image">
     <ul className="nav">
       <li className="nav-item">
         <a
@@ -68,6 +69,7 @@ function Navbar({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
 
   );
 }

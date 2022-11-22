@@ -1,3 +1,17 @@
+
+.background-image {
+  background-image: 
+  url("https://imagedelivery.net/pKy5JEEHGEGr-GbjbHpdmw/9cd3ca1a-1da9-4c29-4190-88b1e04b8900/public");
+  background-size: "cover";
+  height: 20vh;
+  margin-top: 0px;
+  font-size:50px;
+  background-repeat:no-repeat; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .nav {
     background: #00ccff;
     height: 70px;

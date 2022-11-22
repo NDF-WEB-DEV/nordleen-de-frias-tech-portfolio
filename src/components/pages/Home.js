@@ -4,7 +4,7 @@ import './styles/Home.css';
 export default function Home() {
   return (
     <div className="row">
-      <div  className="background-image"></div>
+      {/* <div  className="background-image"></div> */}
       <div className="col-8">
         <h1><text>Nordleen De Frias</text></h1>
         <hr></hr>

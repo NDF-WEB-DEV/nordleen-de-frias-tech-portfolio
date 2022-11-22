@@ -1,0 +1,50 @@
+.contact .row {
+    margin-top: 50px;
+    border-left: 2px solid #33adff;
+
+}
+.contact .container {
+    background: #2D4F75;
+    background-size: "cover";
+    height: 2000px;
+    margin-top: -70px;
+    font-size:50px;
+    background-repeat:no-repeat; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.contact p {
+    text-align: right;
+    line-height: 20px;
+    margin-top: 400px;
+    font-size: 75px;
+    color: antiquewhite;
+}
+.contact a {
+    color: white;
+}
+.contact li {
+    text-align: left;
+    line-height: 20px;
+    margin: 40px;
+    font-size: 14px;
+}
+.contact h1 {
+    font-size: 100px;
+    text-align: right;
+    margin-top: 370px;
+    border-left: 2px solid #33adff;
+    color: white
+}
+.contact h3 {
+    font-size: 35px;
+    text-align: left;
+    margin-left: 40px;
+    color: #33adff;
+}
+.contact .col-11 {
+    display: flex;
+    align-items: flex-end;
+}
