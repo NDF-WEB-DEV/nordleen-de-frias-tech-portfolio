@@ -1,4 +1,4 @@
-.contact .row {
+.contact .container .row {
     margin-top: 50px;
     border-left: 2px solid #33adff;
 
@@ -15,36 +15,36 @@
     -o-background-size: cover;
     background-size: cover;
 }
-.contact p {
+.contact .container .row p {
     text-align: right;
     line-height: 20px;
-    margin-top: 400px;
-    font-size: 75px;
+    margin-top: 97px;
+    font-size: 65px;
     color: antiquewhite;
 }
-.contact a {
+.contact .container .row a {
     color: white;
 }
-.contact li {
+.contact .container .row li {
     text-align: left;
     line-height: 20px;
     margin: 40px;
     font-size: 14px;
 }
-.contact h1 {
+.contact .container .row h1 {
     font-size: 100px;
     text-align: right;
     margin-top: 370px;
     border-left: 2px solid #33adff;
     color: white
 }
-.contact h3 {
+.contact .container .row h3 {
     font-size: 35px;
     text-align: left;
     margin-left: 40px;
     color: #33adff;
 }
-.contact .col-11 {
+.contact .container .row .col-11 {
     display: flex;
     align-items: flex-end;
 }

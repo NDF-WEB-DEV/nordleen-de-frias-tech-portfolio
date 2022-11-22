@@ -19,15 +19,17 @@ export default function Contact() {
           </div>
           <div className="col-3">
             <p><a href='mailto:nordleenDeFrias@gmail.com' target="_blank" rel="noreferrer"><FaEnvelope /></a></p>
+            <p><a href='https://www.linkedin.com/in/nordleendefrias/' target="_blank" rel="noreferrer"><FaLinkedin /></a></p>
+            <p><a href='https://twitter.com/nolydefrias' target="_blank" rel="noreferrer"><FaTwitterSquare /></a></p>
           </div>
 
-          <div className="col-3">
+          {/* <div className="col-3">
             <p><a href='https://www.linkedin.com/in/nordleendefrias/' target="_blank" rel="noreferrer"><FaLinkedin /></a></p>
           </div>
 
           <div className="col-3">
             <p><a href='https://twitter.com/nolydefrias' target="_blank" rel="noreferrer"><FaTwitterSquare /></a></p>
-          </div>
+          </div> */}
         </div>
       </div>      
       </section>
